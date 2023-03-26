@@ -1,7 +1,6 @@
 const express = require('express');
-const data = require('./data.json')
-  const app = express();
-
+const data = require('./data.json');
+const app = express();
 
 // const displayData = fs.readFileSync(
 //   `${__dirname}/templete/index.html`,
