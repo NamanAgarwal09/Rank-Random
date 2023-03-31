@@ -1,21 +1,25 @@
 [
     {
-        "name": "https://www.geoguessr.com/"
+        "name": "https://www.geoguessr.com/",
+        "genera": "skills"
     },
     {
-        "name": "https://knowyourmeme.com/"
+        "name": "https://knowyourmeme.com/",
+        "genera": "skills"
     },
     {
         "name": "https://www.ocearch.org/tracker/"
     },
     {
-        "name": "https://archive.org/web/"
+        "name": "https://archive.org/web/",
+        "genera": "skills"
     },
     {
         "name": "https://imgur.com/"
     },
     {
-        "name": "https://codepen.io/akm2/full/AGgarW"
+        "name": "https://codepen.io/akm2/full/AGgarW",
+        "genera": "skills"
     },
     {
         "name": "https://www.wizardingworld.com/"
@@ -28,5 +32,254 @@
     },
     {
         "name": "https://www.zillow.com/"
+    },
+    {
+        "name": "https://www.nytimes.com/games/wordle/index.html",
+        "genera": "skill"
+    },
+    {
+        "name": "https://www.spotify.com/heardle/?",
+        "genera": "songs"
+    },
+    {
+        "name": "https://www.geoguessr.com/",
+        "genera": "entertainment"
+    },
+    {
+        "name": "https://theoatmeal.com/"
+    },
+    {
+        "name": "https://www.supercook.com/#/desktop"
+    },
+    {
+        "name": "https://archive.org/details/msdos_Oregon_Trail_The_1990"
+    },
+    {
+        "name": "https://giphy.com/"
+    },
+    {
+        "name": "https://archive.org/web/"
+    },
+    {
+        "name": "https://www.apartmenttherapy.com/"
+    },
+    {
+        "name": "https://codepen.io/akm2/full/AGgarW"
+    },
+    {
+        "name": "https://the-toast.net/"
+    },
+    {
+        "name": "https://www.theonion.com/"
+    },
+    {
+        "name": "https://www.cracked.com/"
+    },
+    {
+        "name": "https://www.mentalfloss.com/"
+    },
+    {
+        "name": "https://mix.com/"
+    },
+    {
+        "name": "https://www.space.com/"
+    },
+    {
+        "name": "https://www.wikipedia.org/"
+    },
+    {
+        "name": "https://www.boredpanda.com/?utm_source=educatorstechnology&utm_medium=referral&utm_campaign=organic"
+    },
+    {
+        "name": "https://sketchfab.com/"
+    },
+    {
+        "name": "https://kahoot.com/"
+    },
+    {
+        "name": "https://www.sporcle.com/"
+    },
+    {
+        "name": "https://9gag.com/"
+    },
+    {
+        "name": "https://artsandculture.google.com/"
+    },
+    {
+        "name": "https://colorhunt.co/"
+    },
+    {
+        "name": "https://www.imdb.com/"
+    },
+    {
+        "name": "https://www.window-swap.com/"
+    },
+    {
+        "name": "https://dribbble.com/"
+    },
+    {
+        "name": "https://mynoise.net/"
+    },
+    {
+        "name": "https://www.chess.com/"
+    },
+    {
+        "name": "https://listverse.com/"
+    },
+    {
+        "name": "https://www.playbuzz.com/quizzes?page=0"
+    },
+    {
+        "name": "https://www.exploratorium.edu/"
+    },
+    {
+        "name": "https://thegreatdiscontent.com/"
+    },
+    {
+        "name": "https://www.jigsawplanet.com/"
+    },
+    {
+        "name": "https://virtualpiano.net/"
+    },
+    {
+        "name": "https://www.accuweather.com/"
+    },
+    {
+        "name": "https://musiclab.chromeexperiments.com/"
+    },
+    {
+        "name": "https://www.classicfm.com/"
+    },
+    {
+        "name": "https://www.khanacademy.org/"
+    },
+    {
+        "name": "https://www.flightradar24.com/"
+    },
+    {
+        "name": "https://quickdraw.withgoogle.com/"
+    },
+    {
+        "name": "https://www.nytimes.com/crosswords"
+    },
+    {
+        "name": "https://bigthink.com/"
+    },
+    {
+        "name": "https://ed.ted.com/"
+    },
+    {
+        "name": "https://www.nationalgeographic.com/"
+    },
+    {
+        "name": "https://futurism.com/"
+    },
+    {
+        "name": "https://theuselessweb.com/"
+    },
+    {
+        "name": "https://www.mapcrunch.com/"
+    },
+    {
+        "name": "https://hackertyper.net/"
+    },
+    {
+        "name": "https://apod.nasa.gov/apod/astropix.html"
+    },
+    {
+        "name": "https://www.musictheory.net/"
+    },
+    {
+        "name": "https://papertoilet.com/"
+    },
+    {
+        "name": "https://zoomquilt.org/"
+    },
+    {
+        "name": "https://www.drivemeinsane.com/"
+    },
+    {
+        "name": "https://freerice.com/"
+    },
+    {
+        "name": "https://radiooooo.com/"
+    },
+    {
+        "name": "https://rainymood.com/"
+    },
+    {
+        "name": "https://www.gnoosic.com/"
+    },
+    {
+        "name": "https://patatap.com/"
+    },
+    {
+        "name": "https://notalwaysright.com/"
+    },
+    {
+        "name": "http://www.flashbynight.com/drench/"
+    },
+    {
+        "name": "https://riverstyx.com/"
+    },
+    {
+        "name": "https://www.noiys.com/"
+    },
+    {
+        "name": "https://eyebleach.me/"
+    },
+    {
+        "name": "https://www.visitoregon.com/the-oregon-trail-game-online/"
+    },
+    {
+        "name": "https://www.coolthings.com/"
+    },
+    {
+        "name": "https://postsecret.com/"
+    },
+    {
+        "name": "https://littlealchemy2.com/"
+    },
+    {
+        "name": "https://www.vsauce.com/#/"
+    },
+    {
+        "name": "https://agoodmovietowatch.com/"
+    },
+    {
+        "name": "https://mubi.com/"
+    },
+    {
+        "name": "https://themoth.org/"
+    },
+    {
+        "name": "http://www.emailsfromanasshole.dontevenreply.com/"
+    },
+    {
+        "name": "https://www.codecademy.com/"
+    },
+    {
+        "name": "https://waitbutwhy.com/"
+    },
+    {
+        "name": "https://www.thisismywebsitenow.com/maze-mine/"
+    },
+    {
+        "name": "https://orteil.dashnet.org/cookieclicker/"
+    },
+    {
+        "name": "https://habitica.com/static/home"
+    },
+    {
+        "name": "https://www.iwastesomuchtime.com/?firefox=1"
+    },
+    {
+        "name": "https://www.oddee.com/"
+    },
+    {
+        "name": "https://www.zergnet.com/"
+    },
+    {
+        "name": "https://uncrate.com/"
     }
 ]
