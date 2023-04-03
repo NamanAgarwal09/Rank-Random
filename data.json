@@ -1,58 +1,59 @@
 [
     {
         "name": "https://www.geoguessr.com/",
-        "genera": "skills"
+        "genera": "timepass"
     },
     {
         "name": "https://knowyourmeme.com/",
-        "genera": "skills"
-    },
-    {
-        "name": "https://www.ocearch.org/tracker/"
-    },
-    {
-        "name": "https://archive.org/web/",
-        "genera": "skills"
-    },
-    {
-        "name": "https://imgur.com/"
-    },
-    {
-        "name": "https://codepen.io/akm2/full/AGgarW",
-        "genera": "skills"
-    },
-    {
-        "name": "https://www.wizardingworld.com/"
-    },
-    {
-        "name": "https://www.howstuffworks.com/"
-    },
-    {
-        "name": "https://lifehacker.com/"
-    },
-    {
-        "name": "https://www.zillow.com/"
-    },
-    {
-        "name": "https://www.nytimes.com/games/wordle/index.html",
-        "genera": "skill"
-    },
-    {
-        "name": "https://www.spotify.com/heardle/?",
-        "genera": "songs"
-    },
-    {
-        "name": "https://www.geoguessr.com/",
         "genera": "entertainment"
     },
     {
-        "name": "https://theoatmeal.com/"
+        "name": "https://www.ocearch.org/tracker/",
+        "genera": "timepass"
     },
     {
-        "name": "https://www.supercook.com/#/desktop"
+        "name": "https://imgur.com/",
+        "genera": "timepass"
     },
     {
-        "name": "https://archive.org/details/msdos_Oregon_Trail_The_1990"
+        "name": "https://codepen.io/akm2/full/AGgarW",
+        "genera": "entertainment"
+    },
+    {
+        "name": "https://www.wizardingworld.com/",
+        "genera": "entertainment"
+    },
+    {
+        "name": "https://www.howstuffworks.com/",
+        "genera": "skills"
+    },
+    {
+        "name": "https://lifehacker.com/",
+        "genera": "educational" 
+    },
+    {
+        "name": "https://www.zillow.com/",
+        "genera": "educational"
+    },
+    {
+        "name": "https://www.nytimes.com/games/wordle/index.html",
+        "genera": "skills"
+    },
+    {
+        "name": "https://www.spotify.com/heardle/?",
+        "genera": "entertainment"
+    },
+    {
+        "name": "https://theoatmeal.com/",
+        "genera": "entertainment"
+    },
+    {
+        "name": "https://www.supercook.com/#/desktop",
+        "genera": "skills"
+    },
+    {
+        "name": "https://archive.org/details/msdos_Oregon_Trail_The_1990",
+        "genera": "skills"
     },
     {
         "name": "https://giphy.com/"
@@ -281,5 +282,11 @@
     },
     {
         "name": "https://uncrate.com/"
+    },
+    {
+        "name": "www.ggoleg.coo"
+    },
+    {
+        "name": "www.ggoleg.colko"
     }
 ]

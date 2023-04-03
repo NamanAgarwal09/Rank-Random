@@ -1,0 +1,15 @@
+extends base
+
+block content   
+   table.resizable
+    thead
+        tr
+            th Name
+            th Genera
+    each x in output.slice(0, 10)
+        tbody
+            tr
+                //- td=x.name 
+                td
+                    a(href=`${x.name}`)=x.name
+                td=x.genera 

@@ -1,11 +1,9 @@
 const fs = require('fs');
-const path = require('path');
 const express = require('express');
 const app = express();
-app.use(express.static('templete'));
 
 const data = JSON.parse(fs.readFileSync(`${__dirname}/data.json`));
-var TempOverview = fs.readFileSync('./templete/index.html', 'utf-8');
+
 
 exports.checkDataInJSON = (req, res, next) => {
   const userData = req.body;
@@ -26,16 +24,11 @@ exports.checkDataInJSON = (req, res, next) => {
 exports.skills = (req, res) => {
   try {
     var output = data.filter((data) => data.genera == 'skills');
-    // res.status(200).json({
-    //   status: 'success',
-    //   result: output.length,
-    //   message: output,
-    // });
-    TempOverview = TempOverview.replace(
-      '{%PRODUCT_CARDS%}',
-      JSON.stringify(output)
-    );
-    res.status(200).send(TempOverview);
+    res.status(200).json({
+      status: 'success',
+      result: output.length,
+      message: output,
+    });
   } catch (err) {
     res.status(400).json({
       status: 'fail',
@@ -46,17 +39,11 @@ exports.skills = (req, res) => {
 exports.wod = (req, res) => {
   try {
     var output = data[Math.floor(Math.random() * data.length)];
-    // res.status(200).json({
-    //   status: 'success',
-    //   result: output.length,
-    //   message: output,
-    // });
-
-    TempOverview = TempOverview.replace(
-      '{%PRODUCT_CARDS%}',
-      JSON.stringify(output)
-    );
-    res.status(200).send(TempOverview);
+    res.status(200).json({
+      status: 'success',
+      result: output.length,
+      message: output,
+    });
   } catch (err) {
     res.status(400).json({
       status: 'fail',
@@ -66,9 +53,12 @@ exports.wod = (req, res) => {
 
 exports.getAlldata = (req, res) => {
   try {
-    const output = JSON.stringify(data);
-    TempOverview = TempOverview.replace('{%PRODUCT_CARDS%}', output);
-    res.status(200).send(TempOverview);
+    var output = data;
+    res.status(200).json({
+      status: 'success',
+      result: output.length,
+      message: output,
+    });
   } catch (err) {
     res.status(400).json({
       status: 'fail',

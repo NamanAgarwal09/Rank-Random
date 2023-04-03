@@ -1,10 +1,10 @@
 const express = require('express');
-const data = require('../dataFormat');
+const data = require('../dataformat');
 
 const router = express.Router();
 
 router
-  .route('/home')
+  .route('/')
   .get(data.getAlldata)
   .post(data.checkDataInJSON, data.createdata);
 
